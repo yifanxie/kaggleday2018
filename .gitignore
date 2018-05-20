@@ -1,0 +1,13 @@
+.ipynb_checkpoints/
+models/
+feature_data/
+input/
+ref_scripts/
+temp_submissions/
+*.csv
+*.zip
+*.gz
+*.model
+*.h5
+*.gif
+
